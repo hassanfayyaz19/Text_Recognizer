@@ -1,0 +1,86 @@
+{
+  "project_info": {
+    "project_number": "746198714840",
+    "firebase_url": "https://pro-118.firebaseio.com",
+    "project_id": "pro-118",
+    "storage_bucket": "pro-118.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:746198714840:android:76da976ad7f698b1",
+        "android_client_info": {
+          "package_name": "com.example.hassan.textreader"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "746198714840-jeomtl9ulie27fhadc8ktp272a3audrn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGLEk8I3xSKpL2LdIaJ-aTPXO33rtgErE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:746198714840:android:360781b3603731a1",
+        "android_client_info": {
+          "package_name": "com.example.hassan.textrecognize"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "746198714840-jq1s49h5okrm0d490dir55nmsobdcfoe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hassan.textrecognize",
+            "certificate_hash": "16265598354cf8a79f23626f66d9e5aba5682007"
+          }
+        },
+        {
+          "client_id": "746198714840-jeomtl9ulie27fhadc8ktp272a3audrn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGLEk8I3xSKpL2LdIaJ-aTPXO33rtgErE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "746198714840-jeomtl9ulie27fhadc8ktp272a3audrn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
